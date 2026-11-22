@@ -47,3 +47,11 @@ Linux: [Microsoft]https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-
    `sudo apt-get install azure-cli`
 
 And the NOTE to take note all info which you will use later.
+
+How to read all file in order to understand the process:
+ -First start with user which is provide by the lab: InfoNote.md
+ -After recon, we will start to gain the access to Gumby in order to get accesses needed for accessing VM (Goo, Pokey): Walkthrough.md
+ -Login to each account with TAP:
+    +Work with VM: Pokey.md
+    +Work with VM network for ssh connection: Goo.md
+
